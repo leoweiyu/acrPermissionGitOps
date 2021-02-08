@@ -1,0 +1,12 @@
+{
+"teams": [
+  {
+    "teamName": "integration",
+    "git_repo": "git@github.com:leoweiyu/allSortFuckScripts.git"
+  },
+  {
+    "teamName": "engineering",
+    "git_repo": "git@github.com:leoweiyu/allSortFuckScripts.git"
+  }
+]
+}

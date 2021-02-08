@@ -1,0 +1,11 @@
+{
+"tokenName": "testToken",
+"ScopemapName": "testScopemap",
+"actions": [
+"engineering/tool/openjdk contents/read",
+"engineering/build/jenkins contents/read",
+"engineering/build/jenkins contents/write",
+"engineering/tool/openjdk contents/write",
+"engineering/tool/openjdk metadata/write"
+]
+}
